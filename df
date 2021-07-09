@@ -1,0 +1,59 @@
+[33mcommit 39afccbf44a3b079e26c84aff5b64b968f4576d3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: taranndus <82564045+taranndus@users.noreply.github.com>
+Date:   Fri Jul 9 19:36:15 2021 +0900
+
+    Add Total Test.(@SpringBootTest, @Transactional)
+
+[33mcommit 7ac5963b4b1fb0d2e4f3dbf7dec07289c362e241[m
+Author: taranndus <82564045+taranndus@users.noreply.github.com>
+Date:   Fri Jul 9 18:44:00 2021 +0900
+
+    Connect H2 database, and apply pure JDBC with practice OCP.
+
+[33mcommit 0ba8d58981b821ca91cd251248423f55c90017b6[m
+Author: taranndus <82564045+taranndus@users.noreply.github.com>
+Date:   Wed Jul 7 11:11:07 2021 +0900
+
+    Add Members function Web Display. (Upload & Lookup List)
+
+[33mcommit b490a871f3374c74f61a020a45676fc368b8e161[m
+Author: taranndus <82564045+taranndus@users.noreply.github.com>
+Date:   Wed Jul 7 09:21:50 2021 +0900
+
+    Add SpringConfig via Upload Bean Conf file.
+
+[33mcommit 32c8b6a3fc97ed36523323c4295dc88c126fcf36[m
+Author: taranndus <82564045+taranndus@users.noreply.github.com>
+Date:   Wed Jul 7 08:15:51 2021 +0900
+
+    Add MemberController via upload , and Add Anotation.
+
+[33mcommit be00bed76fe3782327100c30b3edaf0119062147[m
+Author: taranndus <82564045+taranndus@users.noreply.github.com>
+Date:   Tue Jul 6 18:17:20 2021 +0900
+
+    Update README.md
+
+[33mcommit 20031481ebaa2f84f2c28c8f934214ffc0f021c2[m
+Author: taranndus <82564045+taranndus@users.noreply.github.com>
+Date:   Tue Jul 6 18:15:26 2021 +0900
+
+    Update README.md
+
+[33mcommit 1c76ad006b5e49725d96ef266af98c45ccb55259[m
+Author: taranndus <82564045+taranndus@users.noreply.github.com>
+Date:   Tue Jul 6 18:14:46 2021 +0900
+
+    Add files via upload
+
+[33mcommit 0f4c548dc79505d3e0b6295b4cf3087a71f1560d[m
+Author: taranndus <82564045+taranndus@users.noreply.github.com>
+Date:   Tue Jul 6 17:56:44 2021 +0900
+
+    Create README.md
+
+[33mcommit 521d462eb9b595ebd6c4e70841ca8ff9cdbd84f5[m
+Author: taranndus <82564045+taranndus@users.noreply.github.com>
+Date:   Sun Jun 27 20:37:33 2021 +0900
+
+    Make up a MemberService.java and Testing.
