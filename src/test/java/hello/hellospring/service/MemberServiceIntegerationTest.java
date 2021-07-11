@@ -19,7 +19,7 @@ class MemberServiceIntegerationTest {
     /**
      * Total Test
      */
-    @Autowired MemberService memberService;             // this way  easy to test.
+    @Autowired MemberService memberService;           // this way  easy to test.
     @Autowired MemberRepository memberRepository;
 
     @Test
@@ -50,6 +50,5 @@ class MemberServiceIntegerationTest {
         IllegalStateException e = assertThrows(IllegalStateException.class, () -> memberService.join(member2));
 
         assertThat(e.getMessage()).isEqualTo("이미 존재하는 회원입니다.");
-
     }
 }
